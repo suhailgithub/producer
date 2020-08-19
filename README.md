@@ -1,1 +1,2 @@
 # producer
+node producer.js
